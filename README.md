@@ -1,5 +1,12 @@
-### Kodluyoruz'un frontend eğitiminin bootstrap bölümündeki instagram clone ödevi
+### Kodluyoruz'un frontend eğitiminin bootstrap bölümündeki instagram'ın feed sayfasının clone ödevi
 
--Hazır kod verilip düzeltilmedi sıfırdan yapılmaya çalışıldı.
+-Hazır kod verilip düzeltilmedi sıfırdan yapılmaya çalışıldı. Aşağıdaki giflerdem sonucu görebilirsiniz.
 
-![](img/instagram-clone-from-scratch.gif)
+-Bizden istenilen
+![](img/instagram.gif)
+
+-------
+
+-Benim Yaptığım
+
+![](img/instagramCloneFromScratch.gif)
