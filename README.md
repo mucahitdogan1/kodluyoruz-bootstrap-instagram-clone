@@ -2,4 +2,4 @@
 
 -Hazır kod verilip düzeltilmedi sıfırdan yapılmaya çalışıldı.
 
-![](/img/instagram-clone-from-scratch.gif)
+![](img/instagram-clone-from-scratch.gif)
